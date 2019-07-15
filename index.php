@@ -50,10 +50,10 @@
     </div>
 </section>
 
-<link rel="stylesheet" href="css/bootstrap.min.css">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
 <link rel="stylesheet" href="css/login.css">
 
 <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
-<script src="js/bootstrap.bundle.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>

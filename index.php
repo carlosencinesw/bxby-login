@@ -5,7 +5,7 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
+    <title>Box4Buy - Login</title>
 </head>
 <body>
 
@@ -31,7 +31,18 @@
                         <input type="password" class="form-control form-control-lg custom-control" placeholder="Senha">
                     </div>
                     <div class="form-group">
+                        <a href="" class="btn btn-link btn-reset">Recuperar senha</a>
+                    </div>
+                    <div class="form-group">
                         <button class="btn btn-rounded btn-login btn-block btn-lg">ACESSAR</button>
+                    </div>
+                    <div class="form-group">
+                        <div class="text-divider">
+                            Ainda não tem conta?
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <button class="btn btn-rounded btn-login btn-block btn-lg">CADASTRE-SE</button>
                     </div>
                 </form>
             </div>
@@ -40,7 +51,7 @@
 </section>
 
 <link rel="stylesheet" href="css/bootstrap.min.css">
-<link rel="stylesheet" href="css/main.css">
+<link rel="stylesheet" href="css/login.css">
 
 <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
 <script src="js/bootstrap.bundle.min.js"></script>
